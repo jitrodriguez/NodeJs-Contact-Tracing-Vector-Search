@@ -4,7 +4,7 @@ Este proyecto es un microservicio en Node.js que permite guardar y actualizar la
 
 ## Requisitos
 
-- Node.js (versión recomendada: 14.x)
+- Node.js (versión recomendada: 16.x)
 - NPM (incluido con Node.js)
 
 ## Instalación
